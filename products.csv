@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity,supplier,date_added
+101,Laptop Pro 15,Electronics,1299.99,45,TechSupply Inc,2023-01-10
+102,Wireless Mouse,Electronics,29.99,250,TechSupply Inc,2023-01-15
+103,USB-C Cable,Electronics,12.99,500,CableWorld,2023-01-20
+104,Office Chair,Furniture,249.99,60,FurniturePlus,2023-02-05
+105,Standing Desk,Furniture,599.99,30,FurniturePlus,2023-02-10
+106,Notebook A4,Stationery,5.99,1000,PaperCo,2023-02-15
+107,Pen Set,Stationery,15.99,400,PaperCo,2023-02-20
+108,Monitor 27 inch,Electronics,349.99,35,TechSupply Inc,2023-03-01
+109,Keyboard Mechanical,Electronics,99.99,80,TechSupply Inc,2023-03-05
+110,Desk Lamp LED,Furniture,45.99,120,FurniturePlus,2023-03-10

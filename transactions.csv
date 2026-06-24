@@ -1,0 +1,11 @@
+transaction_id,user_id,transaction_type,amount,currency,transaction_date,payment_method,status
+5001,1,Purchase,1299.99,USD,2023-06-15,Credit Card,Completed
+5002,2,Purchase,59.98,USD,2023-06-18,Debit Card,Completed
+5003,3,Refund,-64.95,USD,2023-06-20,Credit Card,Completed
+5004,4,Purchase,249.99,USD,2023-06-22,PayPal,Completed
+5005,5,Purchase,599.99,USD,2023-06-25,Credit Card,Pending
+5006,1,Purchase,59.90,USD,2023-07-01,Debit Card,Completed
+5007,6,Purchase,47.97,USD,2023-07-03,Credit Card,Completed
+5008,2,Purchase,349.99,USD,2023-07-05,PayPal,Completed
+5009,7,Purchase,199.98,USD,2023-07-08,Credit Card,Completed
+5010,8,Refund,-45.99,USD,2023-07-10,Debit Card,Completed

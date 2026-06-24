@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,job_title,salary,hire_date,manager_id
+201,Alice,Williams,Sales,Sales Manager,75000,2021-03-15,NULL
+202,Brian,Lee,IT,Senior Developer,95000,2020-06-10,205
+203,Carol,White,HR,HR Specialist,60000,2022-01-20,207
+204,David,Harris,Finance,Accountant,65000,2021-09-05,206
+205,Emma,Martin,IT,IT Manager,85000,2019-11-12,NULL
+206,Frank,Thompson,Finance,Finance Manager,80000,2020-04-18,NULL
+207,Grace,Garcia,HR,HR Manager,72000,2020-08-22,NULL
+208,Henry,Rodriguez,Sales,Sales Representative,50000,2023-02-10,201
+209,Iris,Jones,IT,Junior Developer,55000,2023-01-15,202
+210,Jack,Miller,Marketing,Marketing Manager,78000,2021-05-30,NULL
