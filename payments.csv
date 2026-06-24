@@ -1,0 +1,11 @@
+payment_id,order_id,customer_id,payment_method,amount,payment_date,status,transaction_id
+1,101,1,Credit Card,1299.99,2023-11-01,completed,TXN001234
+2,102,2,Credit Card,59.98,2023-11-02,completed,TXN001235
+3,103,3,Debit Card,74.99,2023-11-03,pending,TXN001236
+4,104,1,PayPal,349.99,2023-11-04,completed,TXN001237
+5,105,4,Credit Card,189.99,2023-11-05,completed,TXN001238
+6,106,5,Bank Transfer,64.95,2023-11-06,completed,TXN001239
+7,107,6,Credit Card,159.98,2023-11-07,pending,TXN001240
+8,108,2,Debit Card,149.97,2023-11-08,completed,TXN001241
+9,109,7,PayPal,114.99,2023-11-09,completed,TXN001242
+10,110,8,Credit Card,119.98,2023-11-10,completed,TXN001243

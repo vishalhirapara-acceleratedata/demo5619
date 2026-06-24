@@ -1,0 +1,9 @@
+supplier_id,supplier_name,contact_person,email,phone,country,established_year
+1,TechCorp,John Smith,john@techcorp.com,+1-555-0101,USA,2015
+2,DisplayTech,Sarah Johnson,sarah@displaytech.com,+1-555-0102,USA,2018
+3,AudioPro,Michael Chen,michael@audiopro.com,+1-555-0103,China,2012
+4,CablePlus,Emma Brown,emma@cableplus.com,+44-555-0104,UK,2016
+5,OfficeGear,David Wilson,david@officegear.com,+1-555-0105,USA,2019
+6,DataCore,Lisa Anderson,lisa@datacore.com,+81-555-0106,Japan,2014
+7,BrightLight,Robert Martinez,robert@brightlight.com,+34-555-0107,Spain,2017
+8,TechSupply,Jessica Lee,jessica@techsupply.com,+1-555-0108,Canada,2020

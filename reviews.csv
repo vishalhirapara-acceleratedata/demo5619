@@ -1,0 +1,11 @@
+review_id,product_id,customer_id,rating,title,comment,review_date,helpful_count
+1,1,1,5,Excellent laptop,Great performance and build quality,2023-11-10,45
+2,2,2,4,Good mouse,Works well but cable is a bit short,2023-11-11,12
+3,3,3,3,Average keyboard,Decent but keys feel cheap,2023-11-12,8
+4,4,1,5,Perfect monitor,Crystal clear display,2023-11-13,67
+5,5,4,4,Great headphones,Good sound quality and comfort,2023-11-14,34
+6,6,5,5,Reliable cable,Does exactly what it should,2023-11-15,5
+7,7,6,2,Disappointing webcam,Poor image quality,2023-11-16,3
+8,8,2,4,Nice stand,Sturdy and adjustable,2023-11-17,18
+9,9,7,5,Fast SSD,Very speedy performance,2023-11-18,56
+10,10,8,3,Decent lamp,Gets warm but light is good,2023-11-19,7

@@ -1,0 +1,11 @@
+inventory_id,product_id,warehouse_location,quantity_on_hand,reorder_level,last_restocked,expiry_date
+1,1,Warehouse A,45,10,2023-10-15,2025-10-15
+2,2,Warehouse B,200,50,2023-10-20,2024-10-20
+3,3,Warehouse A,150,30,2023-10-18,2024-12-18
+4,4,Warehouse C,80,20,2023-10-22,2025-10-22
+5,5,Warehouse B,120,25,2023-10-19,2025-10-19
+6,6,Warehouse A,500,100,2023-10-25,2024-06-25
+7,7,Warehouse B,90,15,2023-10-21,2025-10-21
+8,8,Warehouse C,110,20,2023-10-23,2024-10-23
+9,9,Warehouse A,75,10,2023-10-26,2025-06-26
+10,10,Warehouse B,140,30,2023-10-24,2024-10-24

@@ -1,0 +1,9 @@
+category_id,category_name,description,created_date
+1,Electronics,Computer hardware and peripherals,2023-01-01
+2,Accessories,Cables and small accessories,2023-01-02
+3,Storage,Data storage devices,2023-01-03
+4,Lighting,Lighting equipment,2023-01-04
+5,Furniture,Office furniture,2023-01-05
+6,Networking,Network devices,2023-01-06
+7,Audio,Audio equipment,2023-01-07
+8,Monitors,Display monitors,2023-01-08
