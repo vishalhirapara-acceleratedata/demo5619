@@ -1,0 +1,11 @@
+review_id,user_id,product_id,rating,review_text,review_date,helpful_count
+6001,1,101,5,Excellent laptop! Fast and reliable.,2023-07-01,24
+6002,2,102,4,Great mouse. Comfortable for long hours.,2023-07-02,18
+6003,3,103,5,Good quality cable. Works perfectly.,2023-07-03,12
+6004,4,104,4,Very comfortable chair. Great value.,2023-07-04,31
+6005,5,105,5,Perfect standing desk. Highly recommend!,2023-07-05,42
+6006,1,106,3,Decent notebooks but a bit pricey.,2023-07-06,8
+6007,6,107,5,Best pen set I've bought.,2023-07-07,27
+6008,2,108,4,Crystal clear display. Love it.,2023-07-08,35
+6009,7,109,5,Mechanical keyboard is awesome!,2023-07-09,58
+6010,8,110,4,Nice lamp. Great lighting quality.,2023-07-10,19

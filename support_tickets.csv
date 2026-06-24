@@ -1,0 +1,11 @@
+ticket_id,user_id,subject,category,priority,created_date,resolved_date,status,assigned_to
+7001,1,Laptop not charging,Technical,High,2023-07-15,2023-07-17,Resolved,202
+7002,3,Delivery delayed,Shipping,Medium,2023-07-16,2023-07-18,Resolved,203
+7003,4,Defective chair leg,Quality,High,2023-07-17,2023-07-20,Resolved,204
+7004,6,Billing issue,Billing,Medium,2023-07-18,2023-07-19,Resolved,206
+7005,2,Missing items in order,Orders,High,2023-07-19,2023-07-21,Resolved,207
+7006,7,Product recommendation,General,Low,2023-07-20,,Open,203
+7007,5,Return request,Returns,Medium,2023-07-21,,Open,207
+7008,8,Account access issue,Account,High,2023-07-22,2023-07-22,Resolved,205
+7009,9,Warranty claim,Warranty,Medium,2023-07-23,,Open,204
+7010,10,Feedback on service,General,Low,2023-07-24,2023-07-24,Resolved,203
