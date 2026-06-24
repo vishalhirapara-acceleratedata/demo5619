@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock,supplier
+1,Laptop,Electronics,1299.99,45,TechCorp
+2,Mouse,Electronics,29.99,200,TechCorp
+3,Keyboard,Electronics,79.99,150,TechCorp
+4,Monitor,Electronics,349.99,80,DisplayTech
+5,Headphones,Electronics,199.99,120,AudioPro
+6,USB Cable,Accessories,12.99,500,CablePlus
+7,Webcam,Electronics,89.99,90,CamTech
+8,Laptop Stand,Accessories,49.99,110,OfficeGear
+9,External SSD,Storage,129.99,75,DataCore
+10,Desk Lamp,Lighting,59.99,140,BrightLight
