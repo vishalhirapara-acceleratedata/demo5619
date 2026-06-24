@@ -1,0 +1,16 @@
+name: demo
+slug: demo
+destination:
+  type: duckdb
+  defaultSchema: main
+prodManifestPath: prod-manifest
+repository:
+  url: https://github.com/vishalhirapara-acceleratedata/demo5619.git
+  fullName: vishalhirapara-acceleratedata/demo5619
+  organization: vishalhirapara-acceleratedata
+  name: demo5619
+  installationId: 0
+  defaultBranch: main
+dataLocation:
+  dev: ./data/demo.duckdb
+  prod: /Users/vishalh/Desktop/accelerate-data/worktrees/feature/worktrees/feature/vd-2708-restore-in-chat-context-window-usage-indicator-regressed/data/domains/demo/demo.duckdb
