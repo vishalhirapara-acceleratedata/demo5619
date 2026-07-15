@@ -1,0 +1,28 @@
+# dbt build artifacts
+**/target/
+dbt_packages/
+logs/
+*.log
+
+# Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+
+# Spark / Livy
+.livy-session-id.txt
+
+# IDE
+.vscode/
+.idea/
+
+# VD Studio
+.claude/
+intent-state.json
+# Runtime location contract is env-only (VD-3364); never track a stray vd-domain.yml.
+vd-domain.yml
+
+# Local data / runtime outputs
+data/
