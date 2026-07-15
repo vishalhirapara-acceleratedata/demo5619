@@ -1,0 +1,5 @@
+# Durable domain CI configuration — seeded once by Vibe Data Studio.
+platform: localduck
+domain: demo
+prod_db_path: /Users/vishalh/Desktop/accelerate-data/vd-studio/data/domains/demo/demo.duckdb
+prod_schema: main
