@@ -5,7 +5,7 @@
 VD_DOMAIN_DATA_PLATFORM: duckdb
 VD_DOMAIN_SLUG: rt-verify
 VD_DOMAIN_SCHEMA: main
-VD_DOMAIN_DUCKDB_PATH: /Users/vishalh/Desktop/accelerate-data/worktrees/feature/vd-3364-domain-repo-template-studio-owned-scaffold-seeded-at-intent/data/domains/rt-verify/rt-verify.duckdb
+VD_DOMAIN_DUCKDB_PATH: /Users/vishalh/Desktop/accelerate-data/vd-studio/data/duckdb/rt-verify.duckdb
 VD_DOMAIN_DUCKDB_DATABASE: rt-verify
 MOTHERDUCK_TOKEN_VAR: MOTHERDUCK_TOKEN
 LLM_API_KEY_VAR: LLM_API_KEY
