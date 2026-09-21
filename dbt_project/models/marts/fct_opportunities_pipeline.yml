@@ -1,0 +1,47 @@
+version: 2
+
+models:
+  - name: fct_opportunities_pipeline
+    description: |
+      Sales pipeline fact table enriched with account and owner context.
+      One row per opportunity for sales team pipeline tracking.
+      Includes deal amount, stage, probability, and close date.
+    columns:
+      - name: opportunity_id
+        description: Unique Salesforce opportunity ID
+        data_tests:
+          - unique
+          - not_null
+      - name: opportunity_name
+        description: Opportunity name/title
+      - name: amount
+        description: Deal amount in USD
+        data_type: decimal(15, 2)
+      - name: stage
+        description: Sales stage (Prospecting, Value Proposition, Proposal/Price Quote, Negotiation/Review, Closed Won, Closed Lost)
+      - name: probability
+        description: Win probability percentage (0-100)
+      - name: close_date
+        description: Expected or actual close date
+      - name: account_name
+        description: Associated account name
+      - name: industry
+        description: Account industry
+      - name: annual_revenue
+        description: Account annual revenue
+      - name: owner_first_name
+        description: Sales rep first name
+      - name: owner_last_name
+        description: Sales rep last name
+      - name: owner_email
+        description: Sales rep email
+      - name: owner_username
+        description: Salesforce username of deal owner
+      - name: created_date
+        description: Opportunity creation timestamp
+      - name: modified_date
+        description: Last modification timestamp
+      - name: last_modified_date
+        description: Last modification date
+      - name: dbt_loaded_at
+        description: Timestamp when record was loaded by dbt

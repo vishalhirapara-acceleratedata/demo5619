@@ -1,0 +1,21 @@
+name: 'salesforce_dashboard'
+version: '1.0.0'
+config-version: 2
+
+profile: 'salesforce_dashboard'
+
+model-paths: ['models']
+test-paths: ['tests']
+target-path: 'target'
+clean-targets:
+  - 'target'
+  - 'dbt_packages'
+
+models:
+  salesforce_dashboard:
+    materialized: view
+    marts:
+      +materialized: table
+
+on-run-start: []
+on-run-end: []

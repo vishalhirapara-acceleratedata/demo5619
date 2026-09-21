@@ -1,0 +1,65 @@
+version: 2
+
+sources:
+  - name: salesforce
+    description: Salesforce operational data
+    database: '{{ env_var("VD_EPHM_DUCKDB_LOCAL_DATABASE") }}'
+    schema: main
+    tables:
+      - name: opportunities
+        description: Salesforce opportunities/deals
+        columns:
+          - name: id
+            description: Unique opportunity ID
+          - name: account_id
+            description: Related account ID
+          - name: name
+            description: Opportunity name
+          - name: amount
+            description: Deal amount
+          - name: stage
+            description: Sales stage
+          - name: close_date
+            description: Expected close date
+          - name: probability
+            description: Win probability
+          - name: created_date
+            description: Created timestamp
+          - name: modified_date
+            description: Last modified timestamp
+          - name: owner_id
+            description: Salesforce user ID of opportunity owner
+
+      - name: accounts
+        description: Salesforce accounts/companies
+        columns:
+          - name: id
+            description: Unique account ID
+          - name: name
+            description: Account name
+          - name: industry
+            description: Industry classification
+          - name: annual_revenue
+            description: Annual revenue
+          - name: created_date
+            description: Created timestamp
+          - name: modified_date
+            description: Last modified timestamp
+
+      - name: users
+        description: Salesforce users/sales reps
+        columns:
+          - name: id
+            description: Unique user ID
+          - name: username
+            description: Salesforce username
+          - name: first_name
+            description: User first name
+          - name: last_name
+            description: User last name
+          - name: email
+            description: User email
+          - name: manager_id
+            description: Manager user ID
+          - name: created_date
+            description: Created timestamp

@@ -1,0 +1,10 @@
+salesforce_dashboard:
+  outputs:
+    dev:
+      type: duckdb
+      path: '/data/ephm_duckdb/ephm_demo_new-intent-901a5806.duckdb'
+      database: 'ephm_demo_new-intent-901a5806'
+      schema: 'main'
+      threads: 4
+      timeout_seconds: 300
+  target: dev
