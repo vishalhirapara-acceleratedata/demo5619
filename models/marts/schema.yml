@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: mart_sales
+    description: >
+      Sales mart at order grain. One row per order (order_id), aggregating all line items
+      from stg_orders. Exposes order-level revenue, item count and fulfilment status
+      alongside key order and customer dimensions.
+    access: public
+    config:
+      contract:
+        enforced: true
+    columns:
+      - name: order_id
+        description: Unique identifier for the order. Primary key of this mart.
+        data_type: varchar
+        tests:
+          - unique
+          - not_null
+      - name: order_date
+        description: Date the order was placed.
+        data_type: date
+        tests:
+          - not_null
+      - name: customer_id
+        description: Unique identifier for the customer who placed the order.
+        data_type: varchar
+        tests:
+          - not_null
+      - name: customer_name
+        description: Full name of the customer who placed the order.
+        data_type: varchar
+        tests:
+          - not_null
+      - name: total_items
+        description: Total number of units ordered across all line items in this order.
+        data_type: integer
+        tests:
+          - not_null
+      - name: total_revenue
+        description: >
+          Total revenue for the order in USD: SUM(quantity * unit_price) across all line items.
+          NULL quantity or unit_price values are treated as zero via COALESCE.
+        data_type: decimal(10,2)
+        tests:
+          - not_null
+      - name: order_status
+        description: >
+          Fulfilment status of the order. Derived as MIN(order_status) across line items;
+          in this demo all line items of an order share one status.
+          One of: completed, shipped, processing, cancelled.
+        data_type: varchar
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [completed, shipped, processing, cancelled]

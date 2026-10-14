@@ -60,3 +60,9 @@
 - Task 1: `dbt seed --select orders --target dev` — exit 0 — seeds/orders.csv — 25 rows inserted (INSERT 25)
 - Task 1: `SELECT COUNT(*) FROM orders` (ephemeral) — 25 rows confirmed
 - Task 1: workspace marker — status: created
+- Task 2: `dbt build --select stg_orders --target dev` — exit 0 — models/staging/stg_orders.sql — PASS=12 (1 view + 11 tests)
+- Task 3: `dbt build --select mart_sales --target dev` — exit 0 — models/marts/mart_sales.sql — PASS=10 (1 table + 9 tests including unique_mart_sales_order_id)
+- Task 3: `SELECT COUNT(*) FROM mart_sales` (ephemeral) — 20 rows (matches 20 distinct order_ids)
+- Task 3: spot-check ORD-002 total_revenue=534.97 ✓, ORD-005=225.97 ✓, ORD-020=89.97 ✓
+- Task 3: `dbt docs generate --static --target dev` — exit 0 — target/catalog.json written; static_index.html published to /data/ephm_dbt_docs
+- Task 3: docs placeholder check — All descriptions OK
