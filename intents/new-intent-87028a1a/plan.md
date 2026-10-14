@@ -57,4 +57,6 @@
 
 ## Execution evidence
 
-<!-- append-only; one line per completed task checkpoint -->
+- Task 1: `dbt seed --select orders --target dev` — exit 0 — seeds/orders.csv — 25 rows inserted (INSERT 25)
+- Task 1: `SELECT COUNT(*) FROM orders` (ephemeral) — 25 rows confirmed
+- Task 1: workspace marker — status: created
