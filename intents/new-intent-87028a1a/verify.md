@@ -41,3 +41,6 @@ All 5 requirements met, all 20 data tests pass, all acceptance checks verified b
 | Docs match data | DESCRIBE mart_sales vs schema.yml + design record D-02–D-08 | n/a | PASS |
 | Docs placeholder check | yaml.safe_load walk over all 3 schema.yml files | n/a | PASS |
 | Scope check | Only files named in Plan scope rows changed | n/a | PASS |
+| Contract promotion | mart_sales: public + enforced + all data_types declared; stg_orders: protected, no contract required | n/a | PASS |
+| Currency check | ship_currency.py --rows .agents_tmp/ship-currency-rows.json (post-approval run) | 0 | fresh=true, stale=[] |
+| Pull request | gh pr create --base main --head intent/new-intent-87028a1a | 0 | https://github.com/vishalhirapara-acceleratedata/demo5619/pull/1 |
