@@ -1,0 +1,54 @@
+version: 2
+
+seeds:
+  - name: orders
+    description: >
+      Raw demo sales order line items. Each row represents one product line within an order.
+      One order_id may span multiple rows when the customer purchased more than one product.
+      This seed is the sole data source for the sales data mart in the demo domain.
+    columns:
+      - name: order_id
+        description: Unique identifier for the order. Multiple rows share the same order_id when an order has more than one line item.
+        tests:
+          - not_null
+      - name: order_date
+        description: Date the order was placed (YYYY-MM-DD).
+        tests:
+          - not_null
+      - name: customer_id
+        description: Unique identifier for the customer who placed the order.
+        tests:
+          - not_null
+      - name: customer_name
+        description: Full name of the customer.
+        tests:
+          - not_null
+      - name: product_id
+        description: Unique identifier for the product on this line item.
+        tests:
+          - not_null
+      - name: product_name
+        description: Display name of the product.
+        tests:
+          - not_null
+      - name: category
+        description: Product category (e.g. Electronics, Furniture, Apparel).
+        tests:
+          - not_null
+      - name: quantity
+        description: Number of units of this product ordered on this line item.
+        tests:
+          - not_null
+      - name: unit_price
+        description: Price per unit of the product in USD at the time of order.
+        tests:
+          - not_null
+      - name: order_status
+        description: >
+          Current fulfilment status of the order.
+          One of: completed, shipped, processing, cancelled.
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [completed, shipped, processing, cancelled]
