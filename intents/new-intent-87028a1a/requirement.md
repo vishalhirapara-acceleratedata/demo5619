@@ -46,3 +46,4 @@ None — all material branches resolved.
 
 - 2026-10-14T04:33Z — requirement approved — "approve_continue" — dcfd79d
 - 2026-10-14T04:35Z — design approved — "approve_continue" — be6ab0d
+- 2026-10-14T04:33Z — ship approved — "approved" — b1cebaa
