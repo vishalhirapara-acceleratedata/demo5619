@@ -44,4 +44,4 @@ None — all material branches resolved.
 
 ## Approvals
 
-<!-- append-only; written by capturing-requirements and later stages -->
+- 2026-10-14T04:33Z — requirement approved — "approve_continue" — dcfd79d
