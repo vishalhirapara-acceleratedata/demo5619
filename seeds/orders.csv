@@ -1,0 +1,26 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,order_status
+ORD-001,2026-01-05,CUST-101,Alice Johnson,PROD-A1,Wireless Headphones,Electronics,1,89.99,completed
+ORD-002,2026-01-07,CUST-102,Bob Smith,PROD-B2,Office Chair,Furniture,2,249.99,completed
+ORD-002,2026-01-07,CUST-102,Bob Smith,PROD-C3,Desk Lamp,Furniture,1,34.99,completed
+ORD-003,2026-01-10,CUST-103,Carol White,PROD-A2,Bluetooth Speaker,Electronics,1,59.99,completed
+ORD-004,2026-01-12,CUST-101,Alice Johnson,PROD-D4,Running Shoes,Apparel,1,119.99,shipped
+ORD-005,2026-01-15,CUST-104,David Brown,PROD-A1,Wireless Headphones,Electronics,2,89.99,completed
+ORD-005,2026-01-15,CUST-104,David Brown,PROD-E5,USB-C Hub,Electronics,1,45.99,completed
+ORD-006,2026-01-18,CUST-105,Emma Davis,PROD-F6,Yoga Mat,Sports,1,29.99,completed
+ORD-007,2026-01-20,CUST-102,Bob Smith,PROD-G7,Coffee Maker,Appliances,1,79.99,shipped
+ORD-008,2026-01-22,CUST-106,Frank Miller,PROD-H8,Mechanical Keyboard,Electronics,1,139.99,completed
+ORD-008,2026-01-22,CUST-106,Frank Miller,PROD-E5,USB-C Hub,Electronics,2,45.99,completed
+ORD-009,2026-01-25,CUST-103,Carol White,PROD-I9,Standing Desk,Furniture,1,399.99,processing
+ORD-010,2026-01-28,CUST-107,Grace Lee,PROD-A2,Bluetooth Speaker,Electronics,1,59.99,completed
+ORD-011,2026-02-02,CUST-101,Alice Johnson,PROD-J10,Protein Powder,Health,2,49.99,completed
+ORD-012,2026-02-05,CUST-108,Henry Wilson,PROD-K11,Gaming Mouse,Electronics,1,69.99,completed
+ORD-012,2026-02-05,CUST-108,Henry Wilson,PROD-H8,Mechanical Keyboard,Electronics,1,139.99,completed
+ORD-013,2026-02-08,CUST-105,Emma Davis,PROD-L12,Resistance Bands,Sports,3,19.99,completed
+ORD-014,2026-02-10,CUST-104,David Brown,PROD-M13,Backpack,Apparel,1,89.99,shipped
+ORD-015,2026-02-12,CUST-109,Irene Clark,PROD-A1,Wireless Headphones,Electronics,1,89.99,completed
+ORD-016,2026-02-15,CUST-106,Frank Miller,PROD-N14,Air Purifier,Appliances,1,199.99,completed
+ORD-017,2026-02-18,CUST-107,Grace Lee,PROD-D4,Running Shoes,Apparel,2,119.99,completed
+ORD-018,2026-02-20,CUST-110,James Martinez,PROD-O15,Smart Watch,Electronics,1,299.99,shipped
+ORD-019,2026-02-22,CUST-102,Bob Smith,PROD-P16,Bookshelf,Furniture,1,149.99,completed
+ORD-020,2026-02-25,CUST-109,Irene Clark,PROD-J10,Protein Powder,Health,1,49.99,completed
+ORD-020,2026-02-25,CUST-109,Irene Clark,PROD-L12,Resistance Bands,Sports,2,19.99,completed
