@@ -50,3 +50,4 @@ The repository is new — no `AGENTS.md`, `repo-map.json`, `CONTEXT.md` or `docs
 - None blocking. Currency is unstated and defaulted to USD; say so now if the platform should be multi-currency, since a currency column on the source is much cheaper to add before the files exist than after.
 
 ## Approvals
+- 2026-10-29T10:19:35Z — requirement approved — "approve" — 1bd9f80
