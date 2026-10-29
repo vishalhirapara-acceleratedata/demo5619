@@ -1,0 +1,11 @@
+product_id,product_name,category,list_price,created_at
+101,Aurora Wireless Earbuds,Audio,79.99,2023-11-01 09:00:00
+102,Lumen Smart Desk Lamp,Home,45.50,2023-12-12 14:30:00
+103,Trailhead Backpack 28L,Outdoor,129.00,2023-10-05 08:15:00
+104,Brewmaster Pour-Over Kit,Kitchen,62.75,2024-01-20 11:45:00
+105,Pulse Fitness Tracker,Wearables,149.99,2024-02-14 16:00:00
+106,Cloudstep Running Shoes,Footwear,118.00,2024-03-02 10:20:00
+107,Terra Ceramic Mug Set,Kitchen,34.25,2024-03-18 13:10:00
+108,Neon Mechanical Keyboard,Electronics,139.99,2024-04-11 09:35:00
+109,Solstice Polarized Sunglasses,Accessories,89.00,2024-05-06 15:05:00
+110,Harbor Noise-Cancelling Headphones,Audio,249.00,2024-06-15 12:00:00
