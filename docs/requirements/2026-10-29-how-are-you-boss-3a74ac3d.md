@@ -51,3 +51,4 @@ The repository is new — no `AGENTS.md`, `repo-map.json`, `CONTEXT.md` or `docs
 
 ## Approvals
 - 2026-10-29T10:19:35Z — requirement approved — "approve" — 1bd9f80
+- 2026-10-29T10:30:36Z — design approved — "approve" — f7c23cc
