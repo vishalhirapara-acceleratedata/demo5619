@@ -1,0 +1,11 @@
+user_id,username,first_name,last_name,email,phone,date_of_birth,registration_date,country,city,account_status,subscription_tier
+USR-001,jsmith92,James,Smith,james.smith@example.com,+1-555-204-3817,1992-04-15,2021-03-10,United States,New York,active,premium
+USR-002,maria_lp,Maria,Lopez,maria.lopez@example.net,+34-612-345-678,1988-11-23,2020-07-22,Spain,Madrid,active,basic
+USR-003,t.nguyen,Tran,Nguyen,tran.nguyen@mailsample.com,+84-90-123-4567,1995-06-30,2022-01-05,Vietnam,Ho Chi Minh City,active,free
+USR-004,chen_w,Wei,Chen,wei.chen@examplemail.org,+86-138-0013-8000,1990-02-14,2019-11-18,China,Shanghai,inactive,basic
+USR-005,o.kowalski,Olga,Kowalski,olga.kowalski@example.pl,+48-601-234-567,1983-09-07,2021-08-30,Poland,Warsaw,active,premium
+USR-006,dev_ahmed,Ahmed,Hassan,ahmed.hassan@sampledomain.com,+20-100-234-5678,1997-01-19,2023-02-14,Egypt,Cairo,suspended,free
+USR-007,r.dubois,René,Dubois,rene.dubois@example.fr,+33-6-12-34-56-78,1979-12-03,2018-05-09,France,Lyon,active,premium
+USR-008,sil_brito,Silvia,Brito,silvia.brito@examplemail.br,+55-11-98765-4321,1993-07-25,2022-10-01,Brazil,São Paulo,inactive,free
+USR-009,j_patel,Jay,Patel,jay.patel@example.in,+91-98765-43210,1991-03-11,2020-04-17,India,Mumbai,active,basic
+USR-010,k.andersen,Karl,Andersen,karl.andersen@example.no,+47-912-34-567,1985-08-28,2017-12-23,Norway,Oslo,suspended,basic
