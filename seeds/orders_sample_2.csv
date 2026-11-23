@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_id,product_name,category,quantity,unit_price,total_amount,status,shipping_country
+2001,C013,2026-10-17,P401,Yoga Mat,Sports,1,35.00,35.00,completed,US
+2002,C014,2026-10-18,P501,Python Programming Book,Books,2,44.99,89.98,shipped,UK
+2003,C015,2026-10-19,P601,Espresso Machine,Kitchen,1,299.00,299.00,processing,DE
+2004,C013,2026-10-20,P402,Resistance Bands Set,Sports,3,14.99,44.97,completed,US
+2005,C016,2026-10-21,P701,Linen Duvet Cover,Home & Garden,1,79.99,79.99,completed,AU
+2006,C017,2026-10-22,P502,Data Science Handbook,Books,1,54.99,54.99,completed,CA
+2007,C018,2026-10-23,P602,Air Fryer,Kitchen,1,89.99,89.99,shipped,FR
+2008,C019,2026-10-24,P403,Running Shoes,Sports,2,120.00,240.00,processing,BR
+2009,C020,2026-10-25,P702,Ceramic Plant Pots Set,Home & Garden,4,19.99,79.96,completed,NL
+2010,C014,2026-10-26,P503,Clean Code,Books,1,39.99,39.99,cancelled,UK
+2011,C021,2026-10-27,P603,Stainless Steel Cookware Set,Kitchen,1,189.00,189.00,completed,MX
+2012,C022,2026-10-28,P404,Cycling Helmet,Sports,1,74.99,74.99,shipped,IT
+2013,C023,2026-10-29,P703,Blackout Curtains,Home & Garden,2,49.99,99.98,completed,SE
+2014,C024,2026-10-30,P604,Pour-Over Coffee Dripper,Kitchen,3,22.50,67.50,completed,JP
+2015,C025,2026-10-31,P405,Foam Roller,Sports,2,28.00,56.00,cancelled,ZA
