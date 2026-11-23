@@ -1,0 +1,101 @@
+id,name,email,age,city,salary,department,hire_date,is_active
+1,Samantha Anderson,samantha.anderson4@icloud.com,33,Charlotte,48289,Operations,2016-02-24,true
+2,Emma Collins,emma.collins5@gmail.com,23,Columbus,60495,Finance,2021-10-01,true
+3,Brenda Sanchez,brenda.sanchez92@msn.com,44,Charlotte,88878,Finance,2018-02-13,true
+4,Christopher Foster,christopher.foster55@protonmail.com,35,San Jose,58221,Sales,2016-02-23,true
+5,Timothy Gonzalez,timothy.gonzalez46@protonmail.com,56,San Francisco,135791,Engineering,2023-03-08,false
+6,Jonathan Thomas,jonathan.thomas49@yahoo.com,53,Denver,138711,Operations,2021-12-08,false
+7,Pamela Harris,pamela.harris91@yahoo.com,20,Minneapolis,59871,Sales,2015-11-23,true
+8,Richard Carter,richard.carter36@live.com,58,Lexington,77819,Marketing,2019-02-25,false
+9,Anthony Hughes,anthony.hughes35@yahoo.com,56,Long Beach,52431,Finance,2023-03-06,true
+10,Christopher Nguyen,christopher.nguyen49@icloud.com,58,New Orleans,103000,Marketing,2022-09-05,false
+11,Linda Robinson,linda.robinson5@protonmail.com,43,Seattle,38675,Marketing,2021-05-12,false
+12,Margaret Reyes,margaret.reyes64@aol.com,59,Milwaukee,48726,Sales,2016-07-25,true
+13,Maria Kelly,maria.kelly69@icloud.com,65,Omaha,86155,Finance,2019-06-24,false
+14,Mark Moore,mark.moore66@live.com,23,Anaheim,36175,Engineering,2016-09-18,true
+15,Debra Collins,debra.collins77@yahoo.com,42,Las Vegas,108104,HR,2020-12-07,false
+16,Stephen Johnson,stephen.johnson88@yahoo.com,61,Anchorage,100381,Sales,2023-08-15,false
+17,Joseph Nguyen,joseph.nguyen56@outlook.com,47,New York,124646,Operations,2017-12-14,true
+18,Nicholas Wilson,nicholas.wilson81@icloud.com,58,Fresno,109818,Marketing,2016-09-18,false
+19,Christopher Bell,christopher.bell68@gmail.com,56,Oklahoma City,94042,Engineering,2016-04-03,false
+20,Donna Walker,donna.walker8@hotmail.com,54,Philadelphia,41226,Operations,2020-06-13,true
+21,Jonathan Gutierrez,jonathan.gutierrez17@outlook.com,60,Albuquerque,102063,Marketing,2017-12-21,false
+22,Margaret Bell,margaret.bell97@hotmail.com,63,Nashville,82296,Operations,2022-04-15,false
+23,Jeffrey Cooper,jeffrey.cooper58@yahoo.com,33,Charlotte,38392,Sales,2015-03-28,true
+24,Emma Lewis,emma.lewis1@yahoo.com,63,Long Beach,37716,Marketing,2015-10-04,true
+25,Kevin Martinez,kevin.martinez66@hotmail.com,35,Minneapolis,93624,Marketing,2021-01-17,true
+26,Patrick Ward,patrick.ward74@live.com,33,Santa Ana,91993,HR,2017-02-18,true
+27,Richard Cruz,richard.cruz56@protonmail.com,45,Louisville,91213,Operations,2015-08-10,true
+28,Linda Phillips,linda.phillips94@protonmail.com,69,Pittsburgh,44322,Marketing,2017-02-23,true
+29,Jonathan Flores,jonathan.flores18@aol.com,29,Seattle,90637,Marketing,2024-10-21,true
+30,Jeffrey Henderson,jeffrey.henderson71@yahoo.com,21,Virginia Beach,100855,Engineering,2016-01-18,true
+31,Lisa Evans,lisa.evans63@live.com,31,Pittsburgh,82565,Engineering,2016-11-05,false
+32,James Roberts,james.roberts34@live.com,36,Portland,121303,Operations,2023-10-14,false
+33,Karen Harris,karen.harris38@hotmail.com,21,Omaha,126434,Finance,2015-09-07,false
+34,Linda Miller,linda.miller75@live.com,50,Cincinnati,141767,Finance,2016-10-06,true
+35,Angela Hernandez,angela.hernandez24@yahoo.com,56,Phoenix,118501,Marketing,2019-07-12,true
+36,Larry Young,larry.young75@comcast.net,20,Raleigh,40745,HR,2022-05-16,false
+37,Dorothy Clark,dorothy.clark86@protonmail.com,33,San Francisco,81876,Marketing,2022-07-14,false
+38,Ryan Green,ryan.green97@yahoo.com,18,Milwaukee,111416,Finance,2016-02-14,true
+39,Jonathan Ramirez,jonathan.ramirez65@icloud.com,26,St. Paul,75745,Engineering,2024-11-10,true
+40,Melissa Torres,melissa.torres21@live.com,52,Arlington,69651,Finance,2024-01-19,true
+41,Christine Gomez,christine.gomez39@yahoo.com,26,San Francisco,45129,Engineering,2023-04-29,true
+42,Paul Torres,paul.torres78@hotmail.com,63,El Paso,56685,Operations,2022-02-10,false
+43,Nicholas Cook,nicholas.cook33@gmail.com,23,Long Beach,85518,Sales,2015-06-30,true
+44,Kevin Gutierrez,kevin.gutierrez17@icloud.com,28,Honolulu,87912,Finance,2022-11-30,false
+45,Brenda Johnson,brenda.johnson15@yahoo.com,62,Stockton,49536,Finance,2015-05-28,false
+46,Justin Gomez,justin.gomez19@aol.com,26,Chicago,70404,Sales,2023-12-05,true
+47,Amanda Clark,amanda.clark88@hotmail.com,60,San Antonio,76357,Finance,2024-11-30,false
+48,Helen Russell,helen.russell20@hotmail.com,28,Corpus Christi,136269,Marketing,2024-11-19,false
+49,Patricia Thompson,patricia.thompson95@protonmail.com,68,St. Paul,83964,Operations,2024-09-09,true
+50,Paul Lee,paul.lee90@yahoo.com,42,Pittsburgh,35075,HR,2017-06-30,true
+51,Ryan Hall,ryan.hall40@hotmail.com,32,Los Angeles,116511,Marketing,2019-06-21,false
+52,Kimberly Rodriguez,kimberly.rodriguez99@icloud.com,40,Virginia Beach,96768,HR,2022-08-15,false
+53,Patricia Anderson,patricia.anderson34@outlook.com,55,San Francisco,35014,Engineering,2021-09-09,false
+54,Brian Powell,brian.powell41@aol.com,56,Fresno,45157,HR,2021-06-19,true
+55,Steven Garcia,steven.garcia91@aol.com,18,Sacramento,135710,Finance,2022-09-14,true
+56,George Edwards,george.edwards9@protonmail.com,57,Oklahoma City,116951,Engineering,2023-01-27,false
+57,Nicholas Flores,nicholas.flores86@aol.com,38,Memphis,121384,Sales,2021-03-20,true
+58,Matthew Parker,matthew.parker86@aol.com,61,Honolulu,148332,Marketing,2021-11-26,false
+59,Stephanie Gomez,stephanie.gomez1@icloud.com,36,Columbus,86346,Finance,2021-10-20,false
+60,Cynthia Stewart,cynthia.stewart57@hotmail.com,50,Albuquerque,134036,Operations,2016-11-26,true
+61,Andrew Peterson,andrew.peterson85@comcast.net,39,Philadelphia,137272,Marketing,2022-07-18,false
+62,Mark Henderson,mark.henderson26@outlook.com,19,Chicago,62092,HR,2021-11-08,true
+63,Ryan Parker,ryan.parker81@comcast.net,30,Arlington,121272,HR,2020-07-17,false
+64,Ashley Jackson,ashley.jackson84@gmail.com,66,Pittsburgh,130931,Engineering,2023-09-24,false
+65,Mark Thompson,mark.thompson90@msn.com,47,Houston,103060,Marketing,2024-07-06,true
+66,Ryan Moore,ryan.moore60@msn.com,53,Colorado Springs,71588,HR,2021-11-14,false
+67,Stephen Flores,stephen.flores21@live.com,46,San Francisco,128536,Marketing,2024-06-02,false
+68,Eric Cook,eric.cook81@hotmail.com,35,Baltimore,40155,Operations,2018-03-16,true
+69,Paul Nelson,paul.nelson41@msn.com,23,Dallas,49769,Marketing,2019-04-18,true
+70,Alexander Ramirez,alexander.ramirez9@aol.com,44,El Paso,101121,HR,2019-08-31,true
+71,Anthony Parker,anthony.parker50@comcast.net,62,Los Angeles,142293,Finance,2019-04-08,false
+72,James Rivera,james.rivera39@aol.com,44,Mesa,127978,Operations,2021-02-14,true
+73,Gary Lewis,gary.lewis35@aol.com,49,Los Angeles,80968,Sales,2022-07-02,false
+74,Patrick Perez,patrick.perez60@outlook.com,57,Mesa,33534,HR,2021-08-21,true
+75,David James,david.james55@outlook.com,47,Jacksonville,36590,Sales,2019-04-02,false
+76,Margaret Morris,margaret.morris42@protonmail.com,66,Anchorage,79692,Sales,2023-06-08,false
+77,Steven Hernandez,steven.hernandez61@gmail.com,65,Mesa,36826,Sales,2017-07-07,true
+78,Katherine Garcia,katherine.garcia97@gmail.com,33,Fort Worth,139999,Engineering,2021-12-19,true
+79,Donald Taylor,donald.taylor61@yahoo.com,54,Columbus,90952,Operations,2017-11-15,false
+80,Lisa Wood,lisa.wood78@yahoo.com,67,Riverside,51465,Sales,2016-03-18,true
+81,Donna Ward,donna.ward87@aol.com,43,Arlington,55995,Engineering,2021-08-22,true
+82,Susan Foster,susan.foster99@icloud.com,61,Colorado Springs,135582,Engineering,2023-12-06,true
+83,Brian Bailey,brian.bailey55@protonmail.com,22,Fresno,114874,Sales,2015-02-21,false
+84,Gary Wilson,gary.wilson56@protonmail.com,58,Stockton,138620,HR,2022-12-07,true
+85,Sharon Thompson,sharon.thompson94@msn.com,59,Seattle,110728,Finance,2023-09-08,false
+86,Cynthia Edwards,cynthia.edwards94@comcast.net,35,Oklahoma City,141635,Marketing,2024-04-25,true
+87,Kimberly Flores,kimberly.flores32@live.com,54,Raleigh,117580,HR,2018-10-09,true
+88,Amy Adams,amy.adams24@live.com,31,Washington,134573,Sales,2018-10-26,false
+89,Scott Foster,scott.foster36@msn.com,18,Sacramento,55042,Engineering,2017-09-15,false
+90,Gary Kelly,gary.kelly98@hotmail.com,62,Albuquerque,114659,Operations,2020-07-03,false
+91,John Lopez,john.lopez38@hotmail.com,43,New Orleans,61890,Sales,2022-06-12,false
+92,Jacob Gomez,jacob.gomez68@protonmail.com,45,Honolulu,102140,Sales,2018-12-12,false
+93,Paul Flores,paul.flores33@hotmail.com,25,Bakersfield,55242,Sales,2016-05-04,true
+94,Matthew Ramirez,matthew.ramirez95@live.com,35,Bakersfield,107278,Finance,2021-09-10,false
+95,Richard Harris,richard.harris38@hotmail.com,41,Jacksonville,69618,Engineering,2022-12-10,true
+96,Kimberly Garcia,kimberly.garcia7@msn.com,36,New Orleans,46551,Operations,2024-09-27,false
+97,Susan Johnson,susan.johnson74@icloud.com,48,Albuquerque,87733,Sales,2017-01-25,true
+98,Steven Rivera,steven.rivera15@yahoo.com,43,Tucson,39710,Finance,2022-01-22,true
+99,Karen Martin,karen.martin73@icloud.com,23,Indianapolis,45525,Finance,2023-07-29,false
+100,Nicole Richardson,nicole.richardson80@hotmail.com,67,Sacramento,79856,HR,2019-12-19,false
