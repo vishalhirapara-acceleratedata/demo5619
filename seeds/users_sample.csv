@@ -1,0 +1,16 @@
+user_id,first_name,last_name,email,phone,country,city,signup_date,plan,is_active
+1,Alice,Johnson,alice.johnson@example.com,+1-555-234-1001,United States,New York,2023-01-15,pro,true
+2,Bob,Smith,bob.smith@example.com,+1-555-234-1002,United States,Los Angeles,2023-02-20,free,true
+3,Clara,Müller,clara.mueller@example.de,+49-30-1234567,Germany,Berlin,2023-03-05,enterprise,true
+4,David,Chen,david.chen@example.com,+1-604-555-0103,Canada,Vancouver,2023-03-18,pro,false
+5,Emily,Davis,emily.davis@example.com,+44-20-7946-0958,United Kingdom,London,2023-04-02,free,true
+6,François,Dupont,francois.dupont@example.fr,+33-1-4000-7510,France,Paris,2023-04-14,pro,true
+7,Grace,Kim,grace.kim@example.com,+82-2-555-0107,South Korea,Seoul,2023-05-09,enterprise,true
+8,Henry,Patel,henry.patel@example.com,+91-22-5550108,India,Mumbai,2023-05-22,free,false
+9,Isabella,Rossi,isabella.rossi@example.it,+39-06-5550109,Italy,Rome,2023-06-11,pro,true
+10,James,Williams,james.williams@example.com,+1-312-555-0110,United States,Chicago,2023-07-03,free,true
+11,Karen,Nguyen,karen.nguyen@example.com,+61-2-5550111,Australia,Sydney,2023-07-19,enterprise,true
+12,Liam,O'Brien,liam.obrien@example.ie,+353-1-5550112,Ireland,Dublin,2023-08-08,pro,false
+13,Mia,Santos,mia.santos@example.br,+55-11-5550113,Brazil,São Paulo,2023-08-25,free,true
+14,Noah,Tanaka,noah.tanaka@example.jp,+81-3-5550114,Japan,Tokyo,2023-09-14,pro,true
+15,Olivia,Martinez,olivia.martinez@example.mx,+52-55-5550115,Mexico,Mexico City,2023-10-01,enterprise,true
