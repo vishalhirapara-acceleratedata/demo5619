@@ -1,0 +1,16 @@
+order_id,customer_id,order_date,product_id,product_name,category,quantity,unit_price,total_amount,status,shipping_country
+1001,C001,2026-10-01,P101,Wireless Mouse,Electronics,2,29.99,59.98,completed,US
+1002,C002,2026-10-02,P102,USB-C Hub,Electronics,1,49.99,49.99,completed,CA
+1003,C003,2026-10-03,P201,Office Chair,Furniture,1,249.00,249.00,shipped,UK
+1004,C001,2026-10-05,P103,Mechanical Keyboard,Electronics,1,89.99,89.99,completed,US
+1005,C004,2026-10-06,P301,Notebook Set,Stationery,3,12.50,37.50,completed,AU
+1006,C005,2026-10-07,P104,Monitor Stand,Electronics,2,34.99,69.98,processing,DE
+1007,C006,2026-10-08,P202,Standing Desk,Furniture,1,499.00,499.00,shipped,US
+1008,C002,2026-10-09,P105,Webcam HD,Electronics,1,74.99,74.99,completed,CA
+1009,C007,2026-10-10,P302,Sticky Notes Pack,Stationery,5,4.99,24.95,completed,FR
+1010,C008,2026-10-11,P106,Laptop Stand,Electronics,1,39.99,39.99,cancelled,US
+1011,C009,2026-10-12,P203,Bookshelf,Furniture,1,149.00,149.00,completed,UK
+1012,C010,2026-10-13,P107,Noise-Cancelling Headphones,Electronics,1,199.99,199.99,shipped,JP
+1013,C003,2026-10-14,P303,Whiteboard Markers,Stationery,2,8.99,17.98,completed,UK
+1014,C011,2026-10-15,P108,Portable SSD 1TB,Electronics,2,109.99,219.98,completed,US
+1015,C012,2026-10-16,P204,Desk Lamp,Furniture,1,59.99,59.99,processing,NZ
