@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,stock_quantity,rating,num_reviews,is_available,sku,created_date,weight_kg
+1,Office Chair,Furniture,Under Armour,493.56,71,3.9,1385,true,SKU-96001,2020-06-14,11.71
+2,Portable SSD,Electronics,Steelcase,1433.46,359,3.2,451,false,SKU-94026,2021-10-25,13.97
+3,Olive Oil,Food,Asus,190.03,49,2.4,704,false,SKU-07816,2018-11-19,27.65
+4,Poetry Anthology,Books,Steelcase,1410.62,23,3.6,1583,false,SKU-13164,2023-02-01,31.82
+5,Business Strategy Book,Books,Clif Bar,713.77,343,2.1,1918,true,SKU-92832,2023-03-09,19.03
+6,Olive Oil,Food,Apple,461.95,16,4.2,821,false,SKU-13953,2023-08-07,19.84
+7,Shampoo Set,Beauty,Adidas,283.56,381,3.2,538,false,SKU-96532,2023-09-19,24.73
+8,Tablet Stylus,Electronics,Anker,309.92,81,4.2,864,true,SKU-66978,2020-10-26,48.56
+9,Gaming Controller,Electronics,Anker,1365.01,274,4.0,1574,false,SKU-14627,2018-01-14,47.7
+10,Pull-Up Bar,Sports,Herman Miller,1017.82,54,4.5,611,true,SKU-25288,2018-01-03,29.99
+11,Moisturising Cream,Beauty,Anker,1858.55,449,4.9,1652,false,SKU-30391,2018-12-17,36.62
+12,Side Table,Furniture,Belkin,261.14,243,4.8,338,false,SKU-89638,2020-04-03,35.68
+13,Craft Kit,Toys,Hydro Flask,1799.73,231,1.5,460,true,SKU-50983,2024-08-07,11.09
+14,Office Chair,Furniture,Amazon Basics,139.46,16,4.4,145,true,SKU-47382,2024-05-27,28.85
+15,Granola Mix,Food,Gaiam,384.87,49,3.6,725,false,SKU-67010,2022-07-08,36.44
+16,Filing Cabinet,Furniture,Steelcase,384.47,229,1.6,375,false,SKU-73178,2019-02-06,2.62
+17,Bluetooth Mouse,Electronics,Nike,336.79,248,2.9,1770,false,SKU-02606,2020-12-22,46.33
+18,Lip Balm Set,Beauty,TRX,1394.7,374,5.0,1138,false,SKU-23430,2024-06-30,36.81
+19,LED Desk Lamp,Electronics,Nestle,119.04,299,2.9,1882,true,SKU-08121,2024-09-03,3.49
+20,Honey Jar,Food,Anker,1883.48,291,2.0,1217,true,SKU-91699,2023-11-12,15.89
+21,Yoga Mat,Sports,L'Oreal,1433.8,122,2.1,268,false,SKU-75107,2024-12-19,49.92
+22,Standing Desk,Furniture,Simon & Schuster,430.24,135,1.5,714,true,SKU-35427,2024-02-04,35.21
+23,Gaming Controller,Electronics,LEGO,602.26,339,1.4,1798,true,SKU-41182,2021-01-20,14.16
+24,Olive Oil,Food,Flexispot,1376.56,436,2.1,1000,false,SKU-01640,2018-01-15,16.74
+25,Cotton T-Shirt,Clothing,IKEA,1483.76,282,3.8,1148,true,SKU-11280,2022-02-21,29.17
+26,Rain Jacket,Clothing,Belkin,88.45,186,4.6,1630,true,SKU-53315,2024-04-12,44.22
+27,Card Game,Toys,Razer,1851.9,121,4.5,1999,true,SKU-60256,2020-10-13,13.41
+28,Desk Organizer,Furniture,Sony,1717.89,113,1.8,1880,false,SKU-54330,2020-03-02,19.98
+29,Foam Roller,Sports,Under Armour,705.54,260,2.6,1727,false,SKU-01429,2020-12-23,2.01
+30,Craft Kit,Toys,Nestle,875.61,261,1.5,1842,true,SKU-40608,2024-01-15,34.37
+31,Olive Oil,Food,TRX,144.6,340,4.7,1276,false,SKU-14846,2021-08-29,20.18
+32,Pull-Up Bar,Sports,Belkin,387.72,340,4.8,1387,true,SKU-99468,2018-01-02,15.26
+33,Honey Jar,Food,Mattel,1215.29,164,2.9,905,true,SKU-87214,2023-10-13,33.23
+34,Python Programming Guide,Books,Nike,1347.23,115,4.2,301,true,SKU-03791,2023-02-09,20.78
+35,Honey Jar,Food,Penguin,802.31,75,3.6,11,true,SKU-63287,2018-07-25,27.91
+36,Storage Ottoman,Furniture,Belkin,1603.83,341,3.1,1144,false,SKU-79868,2023-01-01,44.87
+37,Makeup Brush Set,Beauty,Adidas,1504.79,430,3.6,1568,false,SKU-34714,2020-08-18,13.66
+38,Leadership Essentials,Books,HP,281.06,118,2.5,312,true,SKU-16658,2023-03-24,20.85
+39,Honey Jar,Food,Nature Valley,1810.15,299,4.8,40,false,SKU-70546,2022-09-13,26.96
+40,Granola Mix,Food,Amazon Basics,549.51,248,1.1,688,false,SKU-27298,2018-04-21,45.36
+41,Bluetooth Mouse,Electronics,CeraVe,860.08,443,2.8,102,false,SKU-65375,2021-10-14,38.09
+42,Action Figure,Toys,Gaiam,508.28,41,2.9,1534,true,SKU-53100,2020-10-09,10.05
+43,Wireless Charger,Electronics,Razer,480.9,242,3.7,1155,true,SKU-74529,2024-10-23,48.19
+44,Bookshelf,Furniture,New Balance,220.66,13,4.7,1179,false,SKU-63193,2019-02-22,34.89
+45,Workout Gloves,Sports,Anker,1593.47,289,4.1,711,false,SKU-51850,2022-09-17,41.13
+46,Desk Organizer,Furniture,Clif Bar,1272.99,424,2.8,313,false,SKU-28498,2023-06-04,23.3
+47,Water Bottle,Sports,Nike,1662.31,44,2.1,923,true,SKU-79965,2018-04-28,24.77
+48,Business Strategy Book,Books,Penguin,428.18,408,2.0,572,false,SKU-80831,2020-09-15,36.03
+49,Sunscreen SPF50,Beauty,Nike,1382.77,330,3.8,917,true,SKU-14363,2021-06-08,33.23
+50,Design Thinking Manual,Books,LEGO,1064.19,217,5.0,1127,false,SKU-57444,2020-08-02,6.12
+51,Olive Oil,Food,Anker,1487.05,486,4.0,379,true,SKU-37498,2024-09-10,14.22
+52,Filing Cabinet,Furniture,Puma,458.83,91,2.2,1450,true,SKU-40084,2019-06-02,31.93
+53,Vitamin C Serum,Beauty,Logitech,1150.26,240,2.9,697,true,SKU-04711,2022-06-30,24.64
+54,4K Monitor,Electronics,Razer,1623.23,485,2.2,508,true,SKU-86999,2020-07-13,38.81
+55,Science Experiment Kit,Toys,Hydro Flask,598.22,301,5.0,625,true,SKU-91334,2018-11-29,7.94
+56,Formal Blazer,Clothing,Dell,317.28,209,2.8,1216,false,SKU-40344,2023-02-03,3.65
+57,Dark Chocolate Bar,Food,Neutrogena,1181.63,411,4.7,870,true,SKU-83242,2018-10-20,3.08
+58,Workout Gloves,Sports,Hasbro,1842.78,224,1.5,1410,false,SKU-64887,2022-11-29,4.11
+59,Mini Projector,Electronics,TRX,1470.4,309,2.0,187,true,SKU-99049,2018-06-14,38.18
+60,Cargo Shorts,Clothing,Random House,1304.76,469,2.1,1198,false,SKU-71756,2021-09-27,16.12
+61,Bookshelf,Furniture,Kirkland,826.23,253,2.2,1935,false,SKU-80715,2020-10-30,16.23
+62,Toy Robot,Toys,Logitech,1317.03,277,2.8,111,true,SKU-85977,2018-07-31,10.26
+63,Cotton T-Shirt,Clothing,Hydro Flask,1762.29,248,1.5,1993,true,SKU-24808,2022-07-30,4.75
+64,Storage Ottoman,Furniture,Anker,1297.18,78,3.0,1467,false,SKU-84677,2020-09-25,22.89
+65,Rain Jacket,Clothing,Steelcase,1844.13,260,4.0,279,true,SKU-46584,2018-01-11,14.21
+66,Workout Gloves,Sports,Mattel,1997.81,250,4.5,914,false,SKU-55886,2023-02-09,46.65
+67,Mixed Nuts,Food,Hasbro,769.03,438,4.1,89,false,SKU-76627,2018-06-01,6.4
+68,Python Programming Guide,Books,Hydro Flask,203.92,466,2.8,1479,true,SKU-62174,2021-10-18,31.2
+69,Remote Control Car,Toys,Kirkland,1705.42,439,3.1,1954,false,SKU-78091,2020-08-19,31.59
+70,Yoga Mat,Sports,HP,870.77,50,4.0,1441,true,SKU-72400,2021-08-21,39.83
+71,Water Bottle,Sports,Clif Bar,864.22,125,3.1,1159,true,SKU-22196,2024-12-13,34.19
+72,Eye Cream,Beauty,Razer,468.22,326,2.0,522,true,SKU-74821,2022-12-15,47.27
+73,Gym Bag,Sports,Olay,503.95,432,2.2,787,false,SKU-13695,2024-06-12,14.86
+74,Resistance Bands,Sports,L'Oreal,794.63,4,3.3,1404,true,SKU-97439,2021-12-14,11.03
+75,Rice Cakes,Food,Adidas,1357.14,369,4.1,1394,true,SKU-10470,2024-07-01,18.31
+76,Hoodie,Clothing,Puma,656.8,212,1.7,270,false,SKU-88424,2023-05-28,48.37
+77,Water Bottle,Sports,Anker,939.32,38,1.6,1979,true,SKU-68516,2018-02-27,13.3
+78,Storage Ottoman,Furniture,Clif Bar,1347.29,344,2.0,780,false,SKU-13709,2024-04-18,16.47
+79,Protein Powder,Food,Neutrogena,1648.59,465,3.8,1329,false,SKU-12004,2023-07-11,5.89
+80,Almond Butter,Food,Belkin,780.35,189,3.7,1521,false,SKU-92617,2024-11-26,20.46
+81,Resistance Bands,Sports,Olay,744.21,227,2.8,483,false,SKU-15850,2022-06-19,13.87
+82,Storage Ottoman,Furniture,HP,1327.22,328,3.6,1988,true,SKU-05329,2020-04-20,3.52
+83,Rice Cakes,Food,Flexispot,1627.04,119,2.3,302,true,SKU-42284,2019-12-16,5.59
+84,4K Monitor,Electronics,Logitech,719.69,403,2.0,663,true,SKU-24026,2023-11-25,5.77
+85,Storage Ottoman,Furniture,Hydro Flask,1557.14,262,3.4,925,true,SKU-90847,2018-05-08,3.14
+86,Hair Dryer,Beauty,TRX,1373.76,251,3.8,908,true,SKU-15921,2019-06-01,13.82
+87,Cookbook Collection,Books,Fisher-Price,1063.46,232,3.0,881,true,SKU-18367,2020-07-24,20.75
+88,Hair Dryer,Beauty,Gaiam,1460.58,160,2.7,1362,false,SKU-52711,2018-12-16,4.75
+89,Monitor Arm,Furniture,Belkin,1114.96,300,4.8,1150,false,SKU-16560,2021-03-24,30.06
+90,Python Programming Guide,Books,Hasbro,1017.29,79,3.6,459,true,SKU-58514,2024-06-09,11.39
+91,Toy Robot,Toys,Melissa & Doug,1229.08,329,3.2,1247,false,SKU-02445,2021-12-08,0.4
+92,Athletic Socks,Clothing,L'Oreal,804.56,72,4.0,1990,true,SKU-18366,2023-02-02,17.11
+93,Self-Help Journal,Books,Nestle,1554.79,290,3.4,1809,true,SKU-22901,2021-01-19,22.21
+94,Science Experiment Kit,Toys,Fisher-Price,886.88,139,1.9,1049,true,SKU-56149,2023-06-17,26.39
+95,Resistance Bands,Sports,Amazon Basics,793.55,306,1.2,418,false,SKU-32445,2019-05-07,0.49
+96,Board Game,Toys,Belkin,763.51,360,1.9,1144,false,SKU-16060,2023-02-27,46.07
+97,Poetry Anthology,Books,TRX,1148.93,363,3.6,592,true,SKU-60529,2023-02-28,41.62
+98,Python Programming Guide,Books,TRX,1689.75,124,2.7,820,true,SKU-64535,2019-11-20,3.91
+99,Side Table,Furniture,Harper Collins,391.84,397,2.4,1489,true,SKU-31243,2019-12-12,30.16
+100,Bookshelf,Furniture,Neutrogena,990.76,386,3.3,1186,false,SKU-99552,2022-12-07,3.51

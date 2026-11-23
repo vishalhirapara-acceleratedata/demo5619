@@ -1,0 +1,101 @@
+order_id,customer_id,product_id,quantity,unit_price,total_price,order_date,status,payment_method,shipping_city,notes
+1,57,81,5,1593.68,7968.4,2023-04-26,pending,paypal,Fresno,Add a birthday card please.
+2,58,5,1,740.63,740.63,2021-08-10,pending,credit_card,Raleigh,
+3,50,60,10,1110.86,11108.6,2024-06-09,refunded,credit_card,Baltimore,
+4,74,84,4,646.45,2585.8,2022-09-01,cancelled,debit_card,Houston,
+5,44,92,2,1011.58,2023.16,2020-12-19,pending,debit_card,Arlington,
+6,57,68,9,1221.56,10994.04,2022-01-15,shipped,paypal,Las Vegas,
+7,44,87,10,109.47,1094.7,2023-07-16,refunded,paypal,Phoenix,
+8,72,87,7,571.87,4003.09,2024-01-22,refunded,crypto,San Jose,
+9,75,85,3,1833.91,5501.73,2021-09-27,refunded,bank_transfer,Dallas,
+10,11,40,9,756.48,6808.32,2024-06-09,shipped,debit_card,Minneapolis,
+11,95,88,9,191.44,1722.96,2023-10-05,delivered,crypto,Boston,Leave with neighbour if absent.
+12,24,28,6,1895.6,11373.6,2022-09-22,processing,debit_card,Dallas,Leave with neighbour if absent.
+13,13,65,9,1671.06,15039.54,2024-12-14,cancelled,credit_card,Minneapolis,
+14,99,80,3,1196.51,3589.53,2020-11-11,processing,debit_card,New Orleans,
+15,22,93,8,92.17,737.36,2022-01-16,refunded,debit_card,Baltimore,
+16,97,96,8,471.84,3774.72,2021-05-04,shipped,bank_transfer,Fort Worth,
+17,74,57,8,1540.03,12320.24,2024-05-12,delivered,crypto,Sacramento,
+18,21,26,10,281.11,2811.1,2021-05-27,pending,bank_transfer,Boston,
+19,14,92,9,1703.08,15327.72,2021-08-06,pending,debit_card,Seattle,
+20,66,19,7,187.97,1315.79,2021-03-30,delivered,paypal,Los Angeles,
+21,51,65,6,475.38,2852.28,2020-06-16,shipped,debit_card,Los Angeles,
+22,13,92,6,1583.8,9502.8,2020-10-08,pending,paypal,Albuquerque,
+23,18,98,8,899.96,7199.68,2020-01-11,pending,credit_card,San Francisco,Call before delivery.
+24,71,94,10,1057.9,10579.0,2020-08-15,shipped,debit_card,Nashville,Fragile items — handle with care.
+25,54,82,10,916.94,9169.4,2020-08-15,delivered,crypto,Mesa,Deliver after 5pm.
+26,74,31,3,586.09,1758.27,2020-01-04,cancelled,paypal,Indianapolis,
+27,24,86,2,1049.35,2098.7,2022-01-08,pending,crypto,Mesa,
+28,65,71,1,783.96,783.96,2022-08-20,pending,bank_transfer,Boston,Please leave at the door.
+29,46,9,6,486.05,2916.3,2023-09-07,refunded,credit_card,Omaha,
+30,43,18,1,707.84,707.84,2021-11-24,refunded,debit_card,Tampa,
+31,90,62,3,1623.94,4871.82,2020-05-09,refunded,bank_transfer,Chicago,Please leave at the door.
+32,26,6,6,1867.08,11202.48,2022-11-21,delivered,crypto,Albuquerque,Fragile items — handle with care.
+33,37,46,1,1732.27,1732.27,2021-11-10,shipped,credit_card,Boston,
+34,52,96,8,1789.8,14318.4,2022-03-02,shipped,debit_card,Tucson,
+35,48,67,5,1603.29,8016.45,2024-01-29,delivered,credit_card,Portland,
+36,24,70,5,645.82,3229.1,2020-06-12,shipped,paypal,Nashville,
+37,92,55,3,1381.08,4143.24,2021-12-20,delivered,credit_card,Bakersfield,
+38,46,79,7,552.74,3869.18,2024-06-08,pending,credit_card,Minneapolis,
+39,47,66,3,1905.81,5717.43,2020-10-19,cancelled,bank_transfer,Chicago,Fragile items — handle with care.
+40,100,83,6,727.49,4364.94,2023-03-07,pending,crypto,San Jose,
+41,48,48,8,1527.35,12218.8,2023-03-21,processing,crypto,Boston,
+42,84,36,4,1921.24,7684.96,2020-02-23,refunded,debit_card,Tucson,
+43,72,16,5,1551.05,7755.25,2023-12-12,delivered,debit_card,Raleigh,Add a birthday card please.
+44,26,16,3,1706.39,5119.17,2022-07-14,processing,bank_transfer,Philadelphia,
+45,41,86,6,1420.53,8523.18,2023-01-31,cancelled,paypal,Nashville,
+46,92,91,3,1588.42,4765.26,2022-11-07,processing,credit_card,Fort Worth,
+47,31,64,1,724.99,724.99,2023-03-18,shipped,bank_transfer,Kansas City,Gift wrapping requested.
+48,9,40,7,1999.19,13994.33,2024-01-12,delivered,crypto,Louisville,
+49,74,10,3,1944.9,5834.7,2023-08-08,pending,bank_transfer,Milwaukee,
+50,45,17,9,1281.39,11532.51,2021-01-07,processing,bank_transfer,Fresno,
+51,8,16,9,310.27,2792.43,2020-12-03,processing,paypal,Arlington,Deliver after 5pm.
+52,37,11,5,396.62,1983.1,2023-02-02,shipped,debit_card,Long Beach,
+53,69,12,9,1283.77,11553.93,2023-04-27,cancelled,debit_card,Austin,
+54,93,78,6,1685.85,10115.1,2023-02-28,pending,credit_card,Philadelphia,Contactless delivery only.
+55,34,84,4,1535.08,6140.32,2022-05-03,cancelled,credit_card,Tucson,
+56,70,38,5,968.47,4842.35,2024-07-06,refunded,bank_transfer,Nashville,
+57,89,8,3,882.01,2646.03,2022-09-18,delivered,debit_card,El Paso,
+58,41,92,6,1469.73,8818.38,2024-10-28,shipped,bank_transfer,Dallas,
+59,66,72,2,641.64,1283.28,2022-08-13,pending,paypal,Baltimore,Gift wrapping requested.
+60,7,38,7,1729.01,12103.07,2022-05-06,processing,debit_card,Oklahoma City,
+61,93,41,4,1527.43,6109.72,2022-10-17,cancelled,bank_transfer,Tucson,
+62,64,3,2,1890.74,3781.48,2022-11-01,delivered,debit_card,Columbus,
+63,7,7,5,992.31,4961.55,2024-12-12,refunded,bank_transfer,Denver,
+64,14,56,3,1765.5,5296.5,2024-01-29,shipped,bank_transfer,Boston,Please leave at the door.
+65,73,72,4,728.23,2912.92,2021-08-14,pending,bank_transfer,Fresno,
+66,71,36,10,1362.4,13624.0,2020-08-31,processing,credit_card,Memphis,
+67,44,72,6,1511.16,9066.96,2021-02-11,cancelled,crypto,Memphis,
+68,6,5,3,1428.62,4285.86,2024-07-04,delivered,crypto,Milwaukee,Deliver after 5pm.
+69,18,42,10,640.47,6404.7,2022-03-15,cancelled,paypal,Omaha,
+70,66,69,8,1418.94,11351.52,2021-09-05,delivered,credit_card,Boston,
+71,15,54,10,618.82,6188.2,2024-01-25,refunded,credit_card,Colorado Springs,
+72,84,100,10,1157.38,11573.8,2024-01-17,pending,crypto,Albuquerque,Contactless delivery only.
+73,100,49,3,1644.21,4932.63,2021-05-11,pending,crypto,New Orleans,Please leave at the door.
+74,57,41,7,307.11,2149.77,2023-11-15,processing,bank_transfer,Fresno,
+75,61,95,1,1413.02,1413.02,2022-11-28,processing,crypto,Oklahoma City,
+76,62,68,7,630.94,4416.58,2020-12-20,delivered,crypto,El Paso,
+77,87,99,5,1222.1,6110.5,2021-01-28,processing,paypal,Kansas City,Leave with neighbour if absent.
+78,99,37,4,1382.03,5528.12,2022-09-28,shipped,bank_transfer,Washington,
+79,93,36,5,248.14,1240.7,2023-10-17,cancelled,bank_transfer,Memphis,
+80,99,19,5,88.92,444.6,2024-01-02,pending,paypal,Baltimore,
+81,96,62,4,408.13,1632.52,2023-01-08,shipped,crypto,New Orleans,Gift wrapping requested.
+82,79,95,10,482.37,4823.7,2020-04-13,refunded,crypto,Charlotte,
+83,7,13,7,663.94,4647.58,2022-08-25,pending,debit_card,New York,
+84,21,53,8,957.51,7660.08,2021-02-12,shipped,paypal,Denver,
+85,99,12,10,468.28,4682.8,2024-02-21,refunded,credit_card,Jacksonville,
+86,23,5,7,1576.98,11038.86,2021-01-16,refunded,paypal,Chicago,Contactless delivery only.
+87,78,14,6,572.7,3436.2,2023-08-06,cancelled,crypto,Tucson,
+88,18,65,8,549.31,4394.48,2024-07-14,pending,paypal,Austin,
+89,83,33,3,33.1,99.3,2021-11-21,shipped,crypto,Tampa,
+90,23,79,7,1654.84,11583.88,2022-11-21,shipped,credit_card,Memphis,
+91,24,18,8,650.59,5204.72,2021-05-23,pending,paypal,Las Vegas,Leave with neighbour if absent.
+92,43,39,10,1447.15,14471.5,2020-01-24,shipped,paypal,New Orleans,Gift wrapping requested.
+93,60,40,3,813.81,2441.43,2022-10-26,refunded,paypal,New Orleans,Leave with neighbour if absent.
+94,48,79,4,442.16,1768.64,2020-09-30,delivered,debit_card,Milwaukee,
+95,78,48,7,1405.37,9837.59,2022-08-22,cancelled,debit_card,Indianapolis,
+96,77,11,9,896.26,8066.34,2023-12-12,shipped,credit_card,Atlanta,Deliver after 5pm.
+97,65,26,10,1075.64,10756.4,2020-12-02,shipped,crypto,Baltimore,Fragile items — handle with care.
+98,92,75,8,186.43,1491.44,2022-11-11,delivered,credit_card,Milwaukee,No signature required.
+99,59,73,1,1119.8,1119.8,2023-10-09,shipped,credit_card,Memphis,Please leave at the door.
+100,96,28,10,150.69,1506.9,2022-05-17,shipped,credit_card,Mesa,
