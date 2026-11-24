@@ -53,3 +53,4 @@ Asked which reading of "salesforce sales data mart" they meant, they chose **the
 - **Onboarding.** The repository has no `AGENTS.md` and no `repo-map.json`, so no artifact location or layer role is declared. This intent uses the plugin's documented defaults (`ingestion/`, `transformation/`, `docs/design/`, `intents/<slug>/`); onboarding would pin them.
 
 ## Approvals
+- 2026-11-24T09:01:18Z — requirement approved — "approve" — 0fe9281
